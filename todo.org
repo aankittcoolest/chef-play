@@ -1,0 +1,21 @@
+#+OPTIONS: toc:nil num:nil ^:nil date:nil html-postamble:nil
+#+HTML_HEAD: <link rel="stylesheet" type="text/css" href="https://gongzhitaao.org/orgcss/org.css"/>
+
+* List of cookbooks to work on.
+ 
+***** 🔖 TODO Work on MYSQL cookbook
+***** 🔖 TODO Work on mroonga cookbook
+***** 🔖 TODO Work on emacs cookbook
+***** 🔖 TODO Work on VS code cookbook
+***** 🔖 TODO Work on tmux cookbook
+***** 🔖 TODO Work on perl cookbook
+***** 🔖 TODO Work on nodejs cookbook
+***** 🔖 TODO Work on docker cookbook
+
+      
+* Things to try
+
+***** Commit code on React native
+***** Complete SSL configuration
+***** Work on Kubernetes
+***** Work on GoLang
